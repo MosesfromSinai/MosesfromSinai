@@ -118,5 +118,5 @@ hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:0d1117,100:1a6bff&text=Hey%20There!%20I'm%20Moses&fontColor=ffffff&fontSize=36&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:0d11170"/>
 </p>
