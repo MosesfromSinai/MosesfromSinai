@@ -1,16 +1,133 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I'm%20Moses%20🚀&animation=fadeIn&type=waving&color=0:0d1117,100:1a6bff&height=120&fontColor=ffffff&fontSize=36&fontAlignY=50"/>
+</p>
 
-<!--
-**MosesfromSinai/MosesfromSinai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/moses-avila/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mavil072@ucr.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MosesfromSinai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/MosesfromSinai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A6BFF&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+%40+UC+Riverside+%F0%9F%8E%93;Incoming+SWE+Intern+%40+General+Atomics+%E2%9A%99%EF%B8%8F;Undergraduate+Researcher+%7C+NASA+Robotics+Alum+%F0%9F%94%AC;Building+Full-Stack+Apps+%26+Civic+Tech+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 &nbsp;About Me
+
+```yaml
+name: Moses Avila
+location: Riverside, CA
+education: B.S. Computer Science @ UC Riverside (2027)
+
+current_roles:
+  - Undergraduate Researcher — TiN Nanoparticle Analysis for Biomedical Cryopreservation
+  - Software Engineer Intern @ ACM @ UCR — Built UCR's Business Analytics & Programming Website
+
+upcoming: Software Engineering Intern @ General Atomics — Advanced C2 Systems (Summer 2026)
+
+past_experience:
+  - NASA / CaSGC Robotics Intern — Programmed ROVs for Water Quality Monitoring (Arduino/C++)
+
+interests: [Full-Stack Development, Civic Tech, Systems Design, Machine Learning, Scientific Computing]
+
+fun_fact: I improved computation time by 67% on my research analysis pipeline 🏎️
+```
+
+---
+
+## 🚀 &nbsp;Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 &nbsp;Featured Projects
+
+<a href="https://github.com/MosesfromSinai/mindmetrics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MosesfromSinai&repo=mindmetrics&theme=github_dark&border_color=1a6bff" />
+</a>
+&nbsp;
+<a href="https://github.com/MosesfromSinai/termit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MosesfromSinai&repo=termit&theme=github_dark&border_color=1a6bff" />
+</a>
+
+<br/><br/>
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **MindMetrics** | Next.js, FastAPI, PostgreSQL, AWS, Docker | Full-stack emotional insight platform with psychology-based scoring & analytics dashboards |
+| **TermIt** | C++, GitHub, Unit Testing, Agile | CLI task manager using Composite & Strategy patterns; led 4-member Agile team |
+| **NFL Predictive Models** | Python, R, scikit-learn, ggthemes | ML models on NFL play-by-play data for team & player performance prediction |
+| **NASA ROV** | Arduino, C++, Wi-Fi Sensors | Water quality monitoring robot with real-time pH, temperature & turbidity data |
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=github_dark&border_color=1a6bff&icon_color=1a6bff&title_color=1a6bff" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=github_dark&border_color=1a6bff&title_color=1a6bff" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MosesfromSinai&theme=github-dark-blue&border=1a6bff&ring=1a6bff&fire=1a6bff&currStreakLabel=1a6bff" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🐍 &nbsp;Watch the Snake Eat My Contributions
+
+<p align="center">
+  <img src="https://github.com/MosesfromSinai/MosesfromSinai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MosesfromSinai&color=1a6bff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a6bff&height=80&section=footer"/>
+</p>
