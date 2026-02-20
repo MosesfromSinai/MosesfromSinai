@@ -23,24 +23,37 @@
 ---
 
 ## 🧑‍💻 &nbsp;About Me
-
 ```yaml
 name: Moses Avila
-location: Riverside, CA
-education: B.S. Computer Science @ UC Riverside (2027)
+located_in: Riverside, CA
+current_job: Undergraduate Researcher @ UC Riverside
+education:
+  [
+    "B.S. Computer Science @ UC Riverside (2027)",
+  ]
+company: General Atomics (Incoming Summer 2026)
 
-current_roles:
-  - Undergraduate Researcher — TiN Nanoparticle Analysis for Biomedical Cryopreservation
-  - Software Engineer Intern @ ACM @ UCR — Built UCR's Business Analytics & Programming Website
+fields_of_interests:
+  [
+    "Full-Stack Development",
+    "Civic Tech",
+    "Machine Learning",
+    "Systems Design",
+    "Scientific Computing",
+    "Data Visualization",
+  ]
 
-upcoming: Software Engineering Intern @ General Atomics — Advanced C2 Systems (Summer 2026)
+technical_background:
+  [
+    "Incoming SWE Intern @ General Atomics — Advanced C2 Systems",
+    "SWE Intern @ ACM @ UCR — Web Development",
+    "NASA / CaSGC Robotics Intern — Arduino/C++",
+    "Undergraduate Researcher — TiN Nanoparticle Analysis",
+  ]
 
-past_experience:
-  - NASA / CaSGC Robotics Intern — Programmed ROVs for Water Quality Monitoring (Arduino/C++)
-
-interests: [Full-Stack Development, Civic Tech, Systems Design, Machine Learning, Scientific Computing]
-
-fun_fact: I improved computation time by 67% on my research analysis pipeline 🏎️
+currently_learning: ["Cloud Computing, System Design, Advanced Algorithms"]
+2025 Goals: ["Ship HighlanderFix, crush the GA internship, prep for big tech recruiting"]
+hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
 ```
 
 ---
