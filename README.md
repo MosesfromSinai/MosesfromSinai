@@ -26,6 +26,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A6BFF&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+%40+UC+Riverside+%F0%9F%8E%93;Incoming+SWE+Intern+%40+General+Atomics+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 ## 🧑‍💻 &nbsp;About Me
@@ -94,37 +95,12 @@ hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
 
 ---
 
-## 📌 &nbsp;Featured Projects
-
-<a href="https://github.com/MosesfromSinai/mindmetrics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MosesfromSinai&repo=mindmetrics&theme=github_dark&border_color=1a6bff" />
-</a>
-&nbsp;
-<a href="https://github.com/MosesfromSinai/termit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MosesfromSinai&repo=termit&theme=github_dark&border_color=1a6bff" />
-</a>
-
-<br/><br/>
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **MindMetrics** | Next.js, FastAPI, PostgreSQL, AWS, Docker | Full-stack emotional insight platform with psychology-based scoring & analytics dashboards |
-| **TermIt** | C++, GitHub, Unit Testing, Agile | CLI task manager using Composite & Strategy patterns; led 4-member Agile team |
-| **NFL Predictive Models** | Python, R, scikit-learn, ggthemes | ML models on NFL play-by-play data for team & player performance prediction |
-| **NASA ROV** | Arduino, C++, Wi-Fi Sensors | Water quality monitoring robot with real-time pH, temperature & turbidity data |
-
----
-
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;My GitHub History!
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=github_dark&border_color=1a6bff&icon_color=1a6bff&title_color=1a6bff" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=github_dark&border_color=1a6bff&title_color=1a6bff" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MosesfromSinai&theme=github-dark-blue&border=1a6bff&ring=1a6bff&fire=1a6bff&currStreakLabel=1a6bff" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
