@@ -98,9 +98,9 @@ hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
 ## 📊 &nbsp;My GitHub History!
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats-mosesfromsinais-projects.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-mosesfromsinais-projects.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
