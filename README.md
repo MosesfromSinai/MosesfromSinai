@@ -108,7 +108,7 @@ hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
 <p align="center">
-  <img src="https://github.com/MosesfromSinai/MosesfromSinai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/MosesfromSinai/MosesfromSinai/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
