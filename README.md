@@ -102,13 +102,18 @@ fun_fact: I improved computation time by 67% on my research analysis pipeline �
 
 ---
 
-## 📊 &nbsp;My GitHub History!
+## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=github_dark&border_color=1a6bff&icon_color=1a6bff&title_color=1a6bff" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=github_dark&border_color=1a6bff&title_color=1a6bff" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MosesfromSinai&theme=github-dark-blue&border=1a6bff&ring=1a6bff&fire=1a6bff&currStreakLabel=1a6bff" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
