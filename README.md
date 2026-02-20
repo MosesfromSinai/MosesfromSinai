@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/77ly7fn1RagAAAAd/sung-jin-woo-jinwoo.gif" width="600"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/MosesfromSinai">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A6BFF&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+%40+UC+Riverside+%F0%9F%8E%93;Incoming+SWE+Intern+%40+General+Atomics+%E2%9A%99%EF%B8%8F;Undergraduate+Researcher+%7C+NASA+Robotics+Alum+%F0%9F%94%AC;Building+Full-Stack+Apps+%26+Civic+Tech+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
   </a>
