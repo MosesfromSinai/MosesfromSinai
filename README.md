@@ -114,9 +114,9 @@ hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MosesfromSinai&color=1a6bff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MosesfromSinai&color=1a6bff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:0d11170"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:0d1117,100:1a6bff&section=footer&reversal=true"/>
 </p>
