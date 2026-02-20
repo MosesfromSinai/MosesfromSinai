@@ -33,7 +33,6 @@
 ```yaml
 name: Moses Avila
 located_in: Riverside, CA
-current_job: Undergraduate Researcher @ UC Riverside
 education:
   [
     "B.S. Computer Science @ UC Riverside (2027)",
@@ -43,24 +42,24 @@ company: General Atomics (Incoming Summer 2026)
 fields_of_interests:
   [
     "Full-Stack Development",
-    "Civic Tech",
+    "Autonomous Systems",
     "Machine Learning",
-    "Systems Design",
-    "Scientific Computing",
+    "Robotics",
+    "Computer Vision",
     "Data Visualization",
   ]
 
 technical_background:
   [
-    "Incoming SWE Intern @ General Atomics — Advanced C2 Systems",
-    "SWE Intern @ ACM @ UCR — Web Development",
-    "NASA / CaSGC Robotics Intern — Arduino/C++",
+    "Incoming SWE Intern @ General Atomics",
+    "SWE Intern @ ACM @ UCR",
+    "NASA CaSGC Microcomputer & Robotics Intern",
     "Undergraduate Researcher — TiN Nanoparticle Analysis",
   ]
 
-currently_learning: ["Cloud Computing, System Design, Advanced Algorithms"]
-2025 Goals: ["Ship HighlanderFix, crush the GA internship, prep for big tech recruiting"]
-hobbies: ["Anime", "Football Analytics", "Building Cool Stuff"]
+currently_learning: ["Machine Learning, System Design, Cloud Computing"]
+2026 Goals: ["Ship HighlanderFix, 1-3 small projects, make a club"]
+hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 ```
 
 ---
