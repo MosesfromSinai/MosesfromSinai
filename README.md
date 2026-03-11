@@ -122,9 +122,9 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 ## 📊 &nbsp;My GitHub History!
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227&cache_seconds=7200&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227&cache_seconds=1800&include_all_commits=true&count_private=true&v=20260310" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats-drab-ten-47.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff&cache_seconds=7200&include_all_commits=true&count_private=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-drab-ten-47.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff&cache_seconds=1800&include_all_commits=true&count_private=true&v=20260310" alt="Top Languages"/>
 </p>
 
 ---
