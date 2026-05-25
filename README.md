@@ -116,13 +116,13 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 
 ## 📊 &nbsp;My GitHub History!
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227&cache_seconds=1800&include_all_commits=true&count_private=true&v=20260525c" alt="GitHub Stats"/>
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=dark&border_color=444c56&icon_color=c9a227&title_color=ffffff&ring_color=c9a227&cache_seconds=1800&include_all_commits=true&count_private=true&v=20260525d" alt="GitHub Stats"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-drab-ten-47.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff&cache_seconds=1800&include_all_commits=true&count_private=true&hide=makefile,cmake,roff,tex&langs_count=6&card_width=420&v=20260525c" alt="Top Languages"/>
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="https://github-readme-stats-drab-ten-47.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=dark&border_color=444c56&title_color=ffffff&cache_seconds=1800&include_all_commits=true&count_private=true&hide=makefile,cmake,roff,tex&langs_count=7&card_width=420&v=20260525d" alt="Top Languages"/>
     </td>
   </tr>
 </table>
