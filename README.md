@@ -119,14 +119,13 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img height="195" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
+      <img width="100%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <img height="195" src="https://github-readme-stats-drab-ten-47.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide=makefile,cmake,roff,tex&langs_count=6&cache_seconds=21600" alt="Top Languages"/>
+      <img width="100%" src="https://github-readme-stats-drab-ten-47.vercel.app/api/top-langs/?username=MosesfromSinai&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide=makefile,cmake,roff,tex&langs_count=6&card_width=495&cache_seconds=21600" alt="Top Languages"/>
     </td>
   </tr>
 </table>
----
 
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
