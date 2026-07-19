@@ -33,21 +33,20 @@
 
 ```yaml
 name: Moses Avila
-located_in: Riverside, CA
+located_in: San Diego, CA
 education:
   [
     "B.S. Computer Science @ UC Riverside (2027)",
   ]
-company: General Atomics (Incoming Summer 2026)
+company: General Atomics (Intern)
 
 fields_of_interests:
   [
     "Full-Stack Development",
     "Autonomous Systems",
     "Machine Learning",
-    "Robotics",
     "Computer Vision",
-    "Data Visualization",
+    "Real-time Operating Systems",
   ]
 
 technical_background:
