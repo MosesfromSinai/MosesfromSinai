@@ -115,6 +115,4 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 
 ## 📊 &nbsp;My GitHub History!
 
-<p align="left">
-  <img width="55%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
-</p>
+<img width="55%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" alt="GitHub Stats"/>
