@@ -118,9 +118,3 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 <p align="left">
   <img width="55%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:0d1117,100:1a6bff&section=footer&reversal=true"/>
-</p>
