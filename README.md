@@ -52,14 +52,14 @@ fields_of_interests:
 
 technical_background:
   [
-    "Incoming SWE Intern @ General Atomics",
+    "SWE Intern @ General Atomics",
     "SWE Intern @ ACM @ UCR",
-    "NASA CaSGC Microcomputer & Robotics Intern",
+    "Embedded Software Intern @ NASA CaSGC",
     "Undergraduate Researcher — TiN Nanoparticle Analysis",
   ]
 
 currently_learning: ["Machine Learning, System Design, Cloud Computing"]
-2026_goals: ["Ship HighlanderFix, 1-3 small projects, make a club"]
+2026_goals: ["Ship Emend, 1-3 small projects, make a club"]
 hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 ```
 
@@ -118,12 +118,6 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 
 <p align="left">
   <img width="55%" src="https://github-readme-stats-drab-ten-47.vercel.app/api?username=MosesfromSinai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
-</p>
-
-## 🐍 &nbsp;Watch the Snake Eat My Contributions
-
-<p align="center">
-  <img src="https://github.com/MosesfromSinai/MosesfromSinai/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
