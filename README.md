@@ -114,4 +114,4 @@ hobbies: ["Anime", "Watching Sports", "Snowboarding"]
 ---
 
 ## 📊 &nbsp;My GitHub History!
-<img width="55%" src="https://github-stats-extended-frontend-three-psi.vercel.app/api?username=MosesfromSinai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600&bg_color=0D1117&title_color=7EE787&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="55%" src="https://github-stats-extended-frontend-three-psi.vercel.app/api?username=MosesfromSinai&show_icons=true&count_private=true&hide_border=true&cache_seconds=21600&bg_color=0D1117&title_color=7EE787&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
