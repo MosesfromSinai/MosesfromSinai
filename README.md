@@ -38,7 +38,6 @@ education:
   [
     "B.S. Computer Science @ UC Riverside (2027)",
   ]
-company: General Atomics (Intern)
 
 fields_of_interests:
   [
